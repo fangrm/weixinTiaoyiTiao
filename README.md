@@ -1,7 +1,7 @@
 # weixinTiaoyiTiao
 微信跳一跳游戏的脚本
 
-需要 Auto.js (https://github.com/hyb1996/Auto.js)最新版 和 安卓手机
+需要 Auto.js (https://github.com/hyb1996/Auto.js) 最新版 和 安卓手机
 
 开始跳一跳游戏后，运行脚本文件，会自动开始执行，也可以在点击开始后手动把那个黑色的悬浮窗关闭，以免影响比色。
 
